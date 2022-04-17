@@ -15,6 +15,6 @@ function carregar() {
   } else {
     img.src = './imagens/noiteEditada.png'
     document.getElementById('mudarDia').innerHTML = `Boa Noite!`
-    document.body.style.background = '#2C3A47'
+    document.body.style.background = '#2C3A46'
   }
 }
